@@ -21,7 +21,8 @@ Contact:
 * https://github.com/CelesteRCodes
 
 Feel free to ask me about anything, especially any of my interests! <br>
-I want to LEARN all that I can when it comes to this big world of programming. So yes, I'm open to collab on anything! Don't be shy! 
+I want to LEARN all that I can when it comes to this big world of programming. <br>
+So yes, I'm open to collab on anything! Don't be shy! 
 
 Skills: (multiple certificates earned; still polishing syntax 😉)
 * Python 
