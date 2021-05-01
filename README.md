@@ -17,7 +17,7 @@ Interests:
 * kayaking 🌊 and random arts and crafts 🎨
 * traveling ✈ and attending festivals/concerts 🎶
 
-Contact:
+Contact Info:
 * celestercodes@gmail.com
 * https://github.com/CelesteRCodes
 
@@ -25,7 +25,8 @@ Feel free to ask me about anything, especially any of my interests! <br>
 I want to LEARN all that I can when it comes to this big world of programming. <br>
 So yes, I'm open to collab on anything! Don't be shy!
 
-Skills: (multiple certificates earned; still polishing syntax 😉)
+Skills: 
+(multiple certificates earned; still polishing syntax 😉)
 * Python 
 * SQL
 * HTML
