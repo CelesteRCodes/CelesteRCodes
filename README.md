@@ -1,4 +1,4 @@
-# Hi, guys! I'm Celeste! 🌌  
+# Hi, guys! I'm Celeste! 🌠  
 
 Quick Facts About Me:
 * 💊 ICU RN of 5 years that finally decided it was time for a career change in the middle of this pandemic #CodingNewbie
@@ -10,7 +10,7 @@ Quick Facts About Me:
 
 Interests:
 * reading, puzzles and learning new skills (nerd at ❤)
-* tarot and astrology 🌌
+* tarot and astrology 🌙
 * gaming (The Sims mostly) 
     * and yes, I do want to get into modding video games one of these days! 🎮
 * gardening 🌿 and cooking/baking (especially with farm to table ingredients)
@@ -21,8 +21,8 @@ Contact:
 * celestercodes@gmail.com
 * https://github.com/CelesteRCodes
 <br>
-Feel free to ask me about anything, especially any of my interests! 
-Would love to collab with other developers on anything as well so please don't be shy! 
+Feel free to ask me about anything, especially any of my interests! <br>
+Would love to collab with other developers on anything as well so please don't be shy! <br>
 I want to LEARN all that I can when it comes to this big world of programming, so help is definitely wanted! 😄
 
 Skills: (multiple certificates earned; still polishing syntax 😉)
