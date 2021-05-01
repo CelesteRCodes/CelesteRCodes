@@ -1,8 +1,8 @@
-Hi, I'm Celeste! 🌌  <br>
+Hi, guys! I'm Celeste! 🌌  <br>
 
 Quick Facts About Me:
-* 💊 ICU RN of 5 years that finally decided it was time for a career change in the middle of this pandemic 
-* almost a graduate of the Hackbright company sponsored bootcamp 🎓 #blessedandhighlyfavored
+* 💊 ICU RN of 5 years that finally decided it was time for a career change in the middle of this pandemic #CodingNewbie
+* almost a graduate of the Hackbright company sponsored bootcamp 🎓 #BlessedAndHighlyFavored
 * recently found out that I'm in love with computer programming and am leaning towards front-end dev
 * aim to say on the daily, "Learn something new everyday" 
 * "rubber ducking" is an innate talent of mine (so yes, my pseudo-coding is on point!) 😉 
@@ -20,6 +20,15 @@ Interests:
 Contact:
 * celestercodes@gmail.com
 * https://github.com/CelesteRCodes
+<br>
 Feel free to ask me about anything, especially any of my interests! 
-Would love to collab with other developers as well so please don't be shy! 
-I want to learn all that I can when it comes to this big world of programming, so help is definitely wanted! 😄
+Would love to collab with other developers on anything as well so please don't be shy! 
+I want to LEARN all that I can when it comes to this big world of programming, so help is definitely wanted! 😄
+<br>
+
+Skills: (multiple certificates earned; still polishing syntax 😉)
+* Python 
+* SQL
+* HTML
+* JavaScript
+* jQuery
