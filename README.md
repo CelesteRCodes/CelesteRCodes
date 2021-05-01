@@ -27,6 +27,7 @@ I want to LEARN all that I can when it comes to this big world of programming, s
 
 <br>
 Skills: (multiple certificates earned; still polishing syntax 😉)
+
 * Python 
 * SQL
 * HTML
