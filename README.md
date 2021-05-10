@@ -1,7 +1,7 @@
 # Hi, guys! I'm Celeste! 🌠  
 
 Quick Facts About Me:
-* from Detroit, MI.. spent many years in the Orlando area and then moved back home in 2018 
+* from Detroit, MI.. spent many years in the Orlando area and then moved back home in 2017
 * 💊 ICU RN of 5 years that finally decided it was time for a career change in the middle of this pandemic #CodingNewbie
 * almost a graduate of the Hackbright company sponsored bootcamp 🎓 #BlessedAndHighlyFavored
 * recently found out that I'm in love with computer programming and am leaning towards front-end dev (HTML, CSS and JavaScript caught my eye)
