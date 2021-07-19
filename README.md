@@ -2,8 +2,8 @@
 
 Quick Facts About Me:
 * from Detroit, MI.. spent many years in the Orlando area and then moved back home in 2017
-* 💊 ICU RN of 5 years that finally decided it was time for a career change in the middle of this pandemic #CodingNewbie
-* Alumnae Hackbright (First Bright Paths Cohort) 🎓 #BlessedAndHighlyFavored
+* 💊 ICU RN of 5 years who finally decided it was time for a career change in the middle of this pandemic
+* Hackbright Alumnae June 2021 (First Bright Paths Cohort) 🎓 #BlessedAndHighlyFavored
 * in love with the front-end, UX/UI right now but am always brushing up on my back-end skills as well 
 * aim to say on the daily, "Learn something new everyday" 
 * "rubber ducking" is an innate talent of mine (so yes, my pseudo-coding is on point!) 😉 
